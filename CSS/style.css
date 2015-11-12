@@ -2,7 +2,7 @@
 
 
 body {
-	font-family: 'Pacifico', sans-serif;
+	font-family: 'Fjalla+One', sans-serif;
 	color: #e5e5e5;
 	font-size: 12px;
 	background:#bfbfbf;
@@ -12,7 +12,7 @@ body {
 
 
 h1, h2 {
-	font-family: 'Pacifico', sans-serif;
+	font-family: 'Fjalla+One', sans-serif;
 	font-weight: 300;
 	margin:0 0 15px 0;
 }
@@ -38,7 +38,10 @@ a {
 	color: #fff;
 }
 
+.pictures {
+	height:1000px;
 
+}
 
 .clear {
 	clear: both;
